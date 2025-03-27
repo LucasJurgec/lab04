@@ -75,3 +75,9 @@ ol ul {
 ol {
     list-style-type : lower-roman
 }
+
+aside:hover {
+    display: none;
+    background-color: lightblue;
+    border: 1px solid darkblue;
+}
